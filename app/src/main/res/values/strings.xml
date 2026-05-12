@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Havana Launcher</string>
+
+    <!-- English copy. Arabic copy lives in res/values-ar/strings.xml. -->
+    <string name="status_idle">Ready</string>
+    <string name="status_checking">Checking existing game files…</string>
+    <string name="status_downloading">Downloading game files…</string>
+    <string name="status_downloading_indexed">Downloading game files…  (%1$d/%2$d)</string>
+    <string name="status_resuming">Resuming download…</string>
+    <string name="status_extracting">Extracting game files…</string>
+    <string name="status_finished">All files ready</string>
+    <string name="status_error">Error: %1$s</string>
+    <string name="status_no_network">Waiting for network…</string>
+    <string name="status_paused">Paused — will resume automatically</string>
+
+    <string name="action_play">Play</string>
+    <string name="action_retry">Retry</string>
+    <string name="action_pause">Pause</string>
+
+    <string name="progress_template">%1$d MB / %2$d MB</string>
+    <string name="progress_percent">%1$d%%</string>
+    <string name="speed_template">%1$s/s</string>
+
+    <string name="notification_channel_name">Game download</string>
+    <string name="notification_title">Havana RP</string>
+    <string name="notification_text_downloading">Downloading game files (%1$d%%)</string>
+    <string name="notification_text_extracting">Extracting game files…</string>
+    <string name="notification_text_finished">Game files ready</string>
+    <string name="notification_text_paused">Paused — waiting for network</string>
+
+    <string name="error_game_not_installed">The game APK is not installed on this device.</string>
+    <string name="error_storage_permission">Storage permission is required to download game files.</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">هافانا لانشر</string>
+
+    <string name="status_idle">جاهز</string>
+    <string name="status_checking">جارٍ فحص ملفات اللعبة الموجودة…</string>
+    <string name="status_downloading">جارٍ تحميل ملفات اللعبة…</string>
+    <string name="status_downloading_indexed">جارٍ تحميل ملفات اللعبة…  (%1$d/%2$d)</string>
+    <string name="status_resuming">جارٍ استكمال التحميل…</string>
+    <string name="status_extracting">جارٍ فك ضغط ملفات اللعبة…</string>
+    <string name="status_finished">تم تجهيز جميع الملفات</string>
+    <string name="status_error">خطأ: %1$s</string>
+    <string name="status_no_network">في انتظار الاتصال بالإنترنت…</string>
+    <string name="status_paused">متوقف مؤقتاً — سيستأنف تلقائياً</string>
+
+    <string name="action_play">دخول اللعبة</string>
+    <string name="action_retry">إعادة المحاولة</string>
+    <string name="action_pause">إيقاف مؤقت</string>
+
+    <string name="progress_template">%1$d م.ب / %2$d م.ب</string>
+    <string name="progress_percent">%1$d%%</string>
+    <string name="speed_template">%1$s/ث</string>
+
+    <string name="notification_channel_name">تحميل اللعبة</string>
+    <string name="notification_title">هافانا روول بلاي</string>
+    <string name="notification_text_downloading">جارٍ تحميل ملفات اللعبة (%1$d%%)</string>
+    <string name="notification_text_extracting">جارٍ فك ضغط ملفات اللعبة…</string>
+    <string name="notification_text_finished">تم تجهيز ملفات اللعبة</string>
+    <string name="notification_text_paused">متوقف مؤقتاً — في انتظار الشبكة</string>
+
+    <string name="error_game_not_installed">تطبيق اللعبة غير مثبت على هذا الجهاز.</string>
+    <string name="error_storage_permission">يلزم منح صلاحية الوصول إلى التخزين لتحميل ملفات اللعبة.</string>
+</resources>
